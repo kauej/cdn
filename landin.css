@@ -1,0 +1,35 @@
+
+      header {
+        position: relative;
+        background-color: #216d53;
+      }
+      container {
+        margin: 0 auto;
+        width: 940px;
+        text-align: center;
+      }
+      h1 {
+        text-align: center;
+      }
+      footer {
+        position: relative;
+        background-color: #216d53;
+        color: #fff;
+        text-align: center;
+      }
+      col-md-6 {
+        width: 44.3%;
+        color: #fff;
+        text-align: center;
+        display: block;
+      }
+      form {
+        position: relative;
+        color: #fff;
+        text-align: center;
+      }
+      .row-fluid-wrapper .row-depth-1 .row-number-4 {
+        background-color: #216d53;
+        padding: 0% 5%;
+        text-align: -webkit-center;
+      }
