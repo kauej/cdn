@@ -27,7 +27,7 @@
          padding-right: 10%;
       }
 
-      button#mauticform_input_formularioebook_receber_material {
+      button # mauticform input_formularioebook_receber_material {
     color: #fff;
     background-color: #216d79;
     width: 100%;
@@ -37,7 +37,7 @@
 
 }
 
-      button#mauticform_input_formularioebook_receber_material: hover {
+      button# mauticform_input_formularioebook_receber_material: hover {
     background-color: #215d59;
     padding: 5%;
     box-shadow: 10px 10px 5px #888888;
