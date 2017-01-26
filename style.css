@@ -8,7 +8,15 @@
         position: relative;
         text-align: center;
       }
-      
+
+      subtitulo {
+         background-color: #216d53;
+         padding: 0% 5%;
+         text-align: -webkit-center;
+         color: white;
+            
+      }
+
       box-form {
          background-color: #216d53;
          padding: 0% 5%;
