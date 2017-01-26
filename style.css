@@ -1,15 +1,13 @@
 
       header {
         position: relative;
-        background-color: #216d53;
       }
       
       p form {
         position: relative;
-        text-align: center;
       }
 
-       p.subtitulo {
+       p .subtitulo {
          background-color: #216d53;
          padding: 0% 5%;
          text-align: -webkit-center;
