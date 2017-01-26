@@ -20,5 +20,26 @@
          background-color: #216d53;
          padding: 0% 5%;
          text-align: -webkit-center;
+         border-radius: 25px;
  
       }
+      row-fluid-wrapper. row-depth-1. row-number-4 {
+         padding-right: 10%;
+      }
+
+      button#mauticform_input_formularioebook_receber_material {
+    color: #fff;
+    background-color: #216d79;
+    width: 100%;
+    height: 50px;
+    font-family: Roboto, Raleway, Open Sans, Sans serif;
+    box-shadow: 10px 10px 5px #888888;
+
+}
+
+      button#mauticform_input_formularioebook_receber_material: hover {
+    background-color: #215d59;
+    padding: 5%;
+    box-shadow: 10px 10px 5px #888888;
+
+}
